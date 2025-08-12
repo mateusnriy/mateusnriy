@@ -1,35 +1,34 @@
-﻿
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusnriy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusnriy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+# Olá! Me chamo Mateus Neri
+ 💻 Estudante de Ciência da Computação | Foco em Desenvolvimento de Software e Inteligência Artificial
+
+<div>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusnriy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusnriy&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
 
-###
+## ✔︎ O que vai encontrar aqui?
+Neste repositório, você vai encontrar:  
+- **Projetos pessoais**, onde aplico e experimento novas ideias e tecnologias.  
+- **Projetos da universidade**, desenvolvidos como parte do meu curso de Ciência da Computação.  
+- **Materiais de estudo**, anotações, exemplos e referências que utilizo para aprender e revisar conteúdos.  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+Sempre estou atualizando e organizando o conteúdo para que seja útil tanto para meu aprendizado quanto para quem quiser acompanhar minha evolução. 
+
+## ✔︎ Tecnologias
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href = "mailto:mateusgomesneri@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https:///www.linkedin.com/in/mateusnriy/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+## ✔︎ Vamos nos conectar!
+<div>
+  <a href="mailto:mateusgomesneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mateusnriy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </div>
 
-###
-
-<br clear="both">
-
-###
-
+## ✔︎ Dica
+> Dê uma olhada nos meus repositórios para ver meus projetos e experiências!
