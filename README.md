@@ -13,8 +13,6 @@ Neste repositório, você vai encontrar:
 - **Projetos da universidade**, desenvolvidos como parte do meu curso de Ciência da Computação.  
 - **Materiais de estudo**, anotações, exemplos e referências que utilizo para aprender e revisar conteúdos.  
 
-Sempre estou atualizando e organizando o conteúdo para que seja útil tanto para meu aprendizado quanto para quem quiser acompanhar minha evolução. 
-
 ## ✔︎ Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
