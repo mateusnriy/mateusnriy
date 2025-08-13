@@ -26,7 +26,7 @@ Sempre estou atualizando e organizando o conteúdo para que seja útil tanto par
 
 ## ✔︎ Vamos nos conectar!
 <div>
-  <a href="mailto:mateusgomesneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contato.mateusgomesneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mateusnriy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </div>
 
