@@ -15,6 +15,7 @@ Neste repositório, você vai encontrar:
 
 ## ✔︎ Tecnologias
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="35" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
@@ -30,5 +31,6 @@ Neste repositório, você vai encontrar:
 
 ## ✔︎ Dica
 > Dê uma olhada nos meus repositórios para ver meus projetos e experiências!
+
 
 
