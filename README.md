@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
@@ -16,7 +14,16 @@
 - 🌱 Sempre aprendendo e construindo projetos práticos
 - 💡 Apaixonado por tecnologia e por transformar ideias em código
 
----
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusnriy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnriy&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -30,18 +37,6 @@
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusnriy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnriy&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 📬 Contato
 
