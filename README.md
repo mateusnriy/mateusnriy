@@ -13,8 +13,8 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
-- 💻 Desenvolvimento **back-end**, com foco em dados e Inteligência Artificial
-- 🌱 Em constante aprendizado, construindo projetos práticos
+- 💻 Desenvolver **back-end**
+- 🌱 Em constante aprendizado
 - 📍 Natal, RN - Brasil
 
 **Áreas de interesse:**
